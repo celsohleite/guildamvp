@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVP-Guilda</string>
+    <string name="title_activity_login_presenter">LoginActivityPresenter</string>
+    <string name="btn_acesso">Entrar</string>
+    <string name="lbl_user">Usuário</string>
+    <string name="lbl_password">Senha</string>
+    <string name="lbl_guilda_legal">Guilda Legal</string>
+</resources>
