@@ -37,10 +37,10 @@
             app:layout_constraintBottom_toTopOf="@+id/space_edtText"/>
 
         <TextView
-            android:id="@+id/lbl_guilda_legal"
+            android:id="@+id/lbl_guilda_legals"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textAlignment=""
+            android:textAlignment="center"
             android:text="@string/lbl_guilda_legal"
             app:layout_constraintTop_toBottomOf="@id/space_edtText"/>
 
